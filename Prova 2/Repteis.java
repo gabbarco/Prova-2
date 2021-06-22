@@ -16,9 +16,9 @@ public abstract class Repteis {
     System.out.println("O réptil possui algum tipo de casca? 1-Sim 2-Não");
     int casca= scan.nextInt();
     if (casca==1) {
-        System.out.println("O rétil em questão não possui casca!");
+        System.out.println("O réptil em questão não possui casca!");
     } else {
-        System.out.println("O rétil em questão possui casca!");
+        System.out.println("O réptil em questão possui casca!");
     }
     scan.close();
     }
